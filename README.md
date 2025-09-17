@@ -46,7 +46,7 @@ Regex – Detecting structured metadata (emails, URLs, phone numbers, CIN)
 
 Clone this repository:
 
-git clone https://github.com/<your-username>/pdf-json-extractor.git
+git clone https://github.com/lithish262004/PDF-Structured-JSON-Extractor.git
 
 cd pdf-json-extractor
 
