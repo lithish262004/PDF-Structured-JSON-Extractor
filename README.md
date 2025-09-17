@@ -2,6 +2,9 @@
 
 Convert unstructured PDF files into well-structured JSON while preserving the hierarchical organization of the document.
 This project goes beyond simple text extraction by identifying sections, subsections, paragraphs, tables, images, signatures, and footers.
+APP
+
+## APPLICATION LIVE LINK :  https://huggingface.co/spaces/lithish2602/PDF-Structured-JSON-Extractor 
 
 ## Features
 
@@ -48,7 +51,7 @@ Clone this repository:
 
 git clone https://github.com/lithish262004/PDF-Structured-JSON-Extractor.git
 
-cd pdf-json-extractor
+cd <repo-folder>
 
 Create and activate a virtual environment:
 
