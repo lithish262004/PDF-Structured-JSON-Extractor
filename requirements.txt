@@ -1,0 +1,9 @@
+streamlit
+PyMuPDF
+pdfplumber
+camelot-py[cv]
+pandas
+Pillow
+pytesseract
+numpy
+ghostscript
